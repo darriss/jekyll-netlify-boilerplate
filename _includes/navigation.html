@@ -1,11 +1,26 @@
-{% assign navurl = page.url | remove: 'index.html' %}
-<ul>
-{% for item in include.navigation %}
-  <li>
-    <a href="{{ item.url }}"{% if item.url == navurl %} data-current="current page"{% endif %}>{{ item.text }}</a>
-    {% if item.subitems %}
-      {% include navigation.html navigation=item.subitems %}
-    {% endif %}
-  </li>
-{% endfor %}
-</ul>
+
+<center>
+
+<body>
+
+  <div class="topnav" id="myTopnav">
+  <a href="/index.html" class="active">Home</a>
+  <a href="/about">Resume</a>
+  <a href="/contact">Study Abroad</a>
+  <a href="/blog">Projects</a>
+  <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
+  </div>
+
+  <script>
+    function myFunction() {
+    var x = document.getElementById("myTopnav");
+    if (x.className === "topnav") {
+      x.className += " responsive";
+    } else {
+      x.className = "topnav";
+    }
+    }
+  </script>
+</body>
+
+</center>
