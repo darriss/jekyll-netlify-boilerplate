@@ -1,6 +1,6 @@
 ---
 layout: contact
-title: Contact
+title: Study Abroad
 permalink: /contact
 section: contact
 intro_paragraph: |-
