@@ -24,7 +24,9 @@ Wayne Merrick Scholarship in International Studies for 2019-2020
 
 Inclusivity and Equity Intern, Allegheny College, Meadville, PA          August 2020-present
 -Assist admissions counselors in shaping a diverse and inclusive incoming class
+
 -Conduct interviews with prospective students to see if they would be a good fit in the Allegheny community
+
 -Create presentations, documents, and flyers for prospective students to inform them on Allegheny’s various opportunities
 
 Exchange Student, Al Akhawayn University, Ifrane, Morocco 	   August 2019-December 2019
