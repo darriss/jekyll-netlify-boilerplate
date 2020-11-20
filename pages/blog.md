@@ -4,8 +4,7 @@ title: The Blog
 permalink: /blog
 section: blog
 intro_paragraph: >
-  This is the Blog index page, listing each post with an
-  automatically generated post excerpt. It's a normal Jekyll page but uses
-  the `_layouts/blog.html` template to output the blog's posts after the page
-  content.
+  These projects are a combination of websites, games, photos, videos, and other
+  projects I have done that relate to informatics. Informatics has a focus in the technical display of information
+
 ---
